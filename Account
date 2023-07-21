@@ -1,0 +1,11 @@
+class Account_Demo
+{
+	public static void main(String[] args)
+	{
+		Account1 a1=new Account1(10, 4.5f);
+		
+		a1.display();
+		a1.displayBalance();
+		
+	}
+}
